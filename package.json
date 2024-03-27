@@ -1,0 +1,19 @@
+{
+  "name": "bw7cli-number-guessing",
+  "version": "2.0.0",
+  "description": "This is a number guessing game develop by using TypeScript",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "bw7cli-number-guessing": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "bw7cli-number-guessing": "^2.0.0"
+  }
+}
